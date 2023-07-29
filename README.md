@@ -14,3 +14,7 @@ Hi! 👋🏽 I’m Abdullah. I’m a web designer and full-stack developer. I ha
  **Learning:**
  
 <img alt="nodejs" height="50" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" />
+
+## Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
