@@ -17,4 +17,5 @@ Hi! 👋🏽 I’m Abdullah. I’m a web designer and full-stack developer. I ha
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create an animated link underline](https://abdullahcodes.io/how-to-create-an-animated-link-underline/)
 <!-- BLOG-POST-LIST:END -->
