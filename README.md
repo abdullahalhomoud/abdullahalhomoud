@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/abdullahalhomoud/abdullahalhomoud/main/github-header.png)](https://abdullahcodes.io/)
 
-Hi! 👋🏽 I’m Abdullah. I’m a web designer and full-stack developer. I’m passionate about making beautiful and accessible web experiences. Below is a (non-exhaustive) list of my skillset and the tools that I use. I have a restless mind and an unquenchable thirst for knowledge,  and am always expanding my skillset.
+Hi! 👋🏽 I’m Abdullah. I’m a web designer and full-stack developer. I’m passionate about making beautiful and accessible web experiences. Below is a (non-exhaustive) list of my skillset and the tools that I use. I have a restless mind and an unquenchable thirst for knowledge,  and am always expanding my skill set.
 
 **Languages:**
 
