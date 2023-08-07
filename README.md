@@ -20,6 +20,6 @@ Hi! 👋🏽 I’m Abdullah. I’m a web designer and full-stack developer. I’
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The difference between event listeners and event handlers](https://abdullahcodes.io/the-difference-between-event-listeners-and-event-handlers/)
+- [The difference between JavaScript event listeners and event handlers](https://abdullahcodes.io/the-difference-between-javascript-event-listeners-and-event-handlers/)
 - [How to create an animated link underline](https://abdullahcodes.io/how-to-create-an-animated-link-underline/)
 <!-- BLOG-POST-LIST:END -->
