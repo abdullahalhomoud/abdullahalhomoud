@@ -20,6 +20,7 @@ Hi! 👋🏽 I’m Abdullah. I’m a web designer and full-stack developer. I’
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a CSS triangle](https://abdullahcodes.io/how-to-create-a-css-triangle/)
 - [How to create a speech bubble nav bar with CSS](https://abdullahcodes.io/how-to-create-a-speech-bubble-nav-bar-with-css/)
 - [The difference between JavaScript event listeners and event handlers](https://abdullahcodes.io/the-difference-between-javascript-event-listeners-and-event-handlers/)
 - [How to create an animated link underline](https://abdullahcodes.io/how-to-create-an-animated-link-underline/)
